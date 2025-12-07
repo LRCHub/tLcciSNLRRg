@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "クリスマスのよる",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-07T12:04:02.130863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クリスマスのよる",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_クリスマスのよる_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クリスマスのよる",
+      "artist": "ATARAYO (あたらよ)",
+      "has_synced": false,
+      "path": "select/02_クリスマスのよる_ATARAYO_(あたらよ).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリスマスのよる",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_クリスマスのよる_あたらよ.txt"
+    }
+  ]
+}
